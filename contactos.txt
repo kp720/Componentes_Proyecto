@@ -1,0 +1,19 @@
+Nombre: Yadi
+Teléfono: 9512631141
+Correo: yad_jj@gmail.com
+
+Nombre: Sara
+Teléfono: 9511024574
+Correo: sara_gl@gmail.com
+
+
+
+Nombre: Juan
+Teléfono: 9584541414
+Correo: juan_gg@hotmail.com
+
+
+Nombre: Kevin
+Teléfono: 9614787414
+Correo: kevn.kn@itoaxaca.edu.mx
+
